@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミオヤマザキ 『女に浮気がバレる２６の法則』",
+  "base_artist": "ミオヤマザキ",
+  "createdAt": "2025-12-05T12:43:10.845767Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "女に浮気がバレる26の法則",
+      "artist": "ミオ ヤマザキ",
+      "has_synced": false,
+      "path": "select/pl_01_女に浮気がバレる26の法則_ミオ_ヤマザキ.txt"
+    }
+  ]
+}
